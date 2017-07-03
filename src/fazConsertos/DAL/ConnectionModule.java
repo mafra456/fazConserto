@@ -10,7 +10,7 @@ public class ConnectionModule {
         String driver = "com.mysql.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/ML";
         String user = "root";
-        String password = "159andremafra";
+        String password = "";
         
         // Connecting to db
         try {
